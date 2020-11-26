@@ -1,0 +1,4 @@
+<div>
+<h4>something for salutation</h4>
+<p>This is your html email body</p>
+</div>
